@@ -101,6 +101,18 @@ section h2 {
     background-color: #f8f59f;
 }
 
-#ecomomy .articles article a {
-    background-color: #ff9f1a;
+#economy .articles article a {
+    background-color: #f09618;
+}
+
+#entertainment {
+    background-color: rgba(255, 0, 255, 0.534);
+}
+
+#entertainment .articles article a {
+    background-color: purple;
+}
+
+#technology {
+    background-color: rgba(50, 50, 253, 0.621);
 }
